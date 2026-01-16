@@ -8,8 +8,6 @@
 # /workspaces/daytwostuff
 # Not different
 
-# pip freeze requirements
-
 
 #%%
 import pandas as pd
